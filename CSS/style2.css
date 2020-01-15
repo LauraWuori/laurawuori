@@ -28,9 +28,9 @@
 .box
 {
     float: left;
-    width: 100px;
-    min-height: 55px;
-    margin: 22px;
+    width: 160px;
+    min-height: 550px;
+    margin: 28px;
     background-color: forestgreen;
 
 }
