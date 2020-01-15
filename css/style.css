@@ -1,19 +1,22 @@
 h1 
 {
 font-family: 'Times New Roman', Times, serif;
-font-size: 20pxpx;
+font-size: 45px;
 font-weight: bold;
 color: rgb(219, 20, 47);
+align-content: center;
 }
 
 p
 {
 font-family: Georgia, 'Times New Roman', Times, serif;
-font-size: 10px;
+font-size: 15px;
 color: rgb(105, 60, 2);
+align-content: center;
 }
 
 body
 {
 background-color: beige;
+width: 600px;
 }
