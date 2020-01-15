@@ -9,7 +9,8 @@ margin-top: 100px;
 header
 {
 background-color: rgb(221, 184, 207);
-
+border-bottom-width: 600px;
+border-bottom-color: black;
 }
 
 h1 
