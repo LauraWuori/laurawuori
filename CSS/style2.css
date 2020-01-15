@@ -40,3 +40,11 @@ footer
     width: 100px;
     margin: 44px;
 }
+
+header
+{
+    background-color: rgb(76, 79, 241);
+    width: 700px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+    height: 77px;
+}
