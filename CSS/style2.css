@@ -2,5 +2,6 @@
 {
     display: flex;
     background-color: wheat;
-    
+    align-content: space-between;
+    flex-wrap: wrap;
 }
