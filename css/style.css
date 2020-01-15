@@ -39,6 +39,12 @@ color: rgb(105, 60, 2);
 text-align:  center;
 }
 
+p::first-letter
+{
+color: red;
+font-size: 22px;
+}
+
 h1.warning,note
 {
     color: rebeccapurple;
