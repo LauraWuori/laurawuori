@@ -1,8 +1,18 @@
 .flex1
 {
     display: flex;
-    background-color: wheat;
+    background-color: rgb(141, 93, 5);
     align-content: space-between;
     flex-wrap: wrap;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.flexBody
+{
+    background-color: gray;
+    margin: 22px;
+    text-align: center;
+    line-height: 12px;
+    font-size: 45px;
+    width: fit-content;
 }
