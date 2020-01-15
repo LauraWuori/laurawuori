@@ -6,6 +6,12 @@ margin-left: 400px;
 margin-top: 100px;
 }
 
+header
+{
+background-color: rgb(221, 184, 207);
+
+}
+
 h1 
 {
 font-family: 'Times New Roman', Times, serif;
