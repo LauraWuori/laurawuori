@@ -39,6 +39,7 @@ footer
     background-color: forestgreen;
     width: 100px;
     margin: 44px;
+    float: center;
 }
 
 header
