@@ -24,3 +24,13 @@
     flex-direction: column;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
 }
+
+.box
+{
+    float: left;
+    width: 100px;
+    min-height: 55px;
+    margin: 22px;
+    background-color: forestgreen;
+
+}
