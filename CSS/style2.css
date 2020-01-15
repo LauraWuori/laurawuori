@@ -27,10 +27,10 @@
 
 .box
 {
-    float: left;
+    float: right;
     width: 160px;
     min-height: 550px;
-    background-color: forestgreen;
+    background-color: rgb(139, 34, 99);
 
 }
 
