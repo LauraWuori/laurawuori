@@ -6,9 +6,14 @@ font-weight: bold;
 color: rgb(219, 20, 47);
 }
 
-p{
+p
+{
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 10px;
 color: rgb(105, 60, 2);
+}
 
+body
+{
+background-color: beige;
 }
