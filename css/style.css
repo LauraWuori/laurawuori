@@ -4,7 +4,7 @@ font-family: 'Times New Roman', Times, serif;
 font-size: 45px;
 font-weight: bold;
 color: rgb(219, 20, 47);
-text-align: center;
+align-self: center;
 }
 
 p
