@@ -9,8 +9,7 @@ margin-top: 100px;
 header
 {
 background-color: rgb(221, 184, 207);
-border-bottom-width: 600px;
-border-bottom-color: black;
+border-bottom: rebeccapurple, 900px;
 }
 
 content
@@ -33,11 +32,9 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 15px;
 color: rgb(105, 60, 2);
 text-align:  center;
-border-bottom-width: 900px;
-border-bottom-color: olivedrab;
 }
 
-h1.warning
+h1.warning,note
 {
     color: rebeccapurple;
     background-color: greenyellow;
