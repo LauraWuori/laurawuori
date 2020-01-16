@@ -48,7 +48,7 @@ text-align: center;
 width: 35%;
 }
 
-aside
+nav
 {
     background-color: seagreen;
     width: 20%;
@@ -58,7 +58,7 @@ aside
     height: 655px;
 }
 
-aside ul
+nav ul
 {
     list-style-type: none;
     padding: 1px;
