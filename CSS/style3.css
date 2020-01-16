@@ -71,3 +71,8 @@ video
 {
     border: rgb(156, 0, 135) solid 5px;
 }
+
+img
+{
+border: solid white 2px;
+}
