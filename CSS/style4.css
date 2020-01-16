@@ -55,6 +55,11 @@ width: 55%;
     text-decoration: none;
   }
 
+  .navstyle a.active {
+    background-color: rgb(9, 82, 11);
+    color: white;
+  }
+
 
 img
 {
