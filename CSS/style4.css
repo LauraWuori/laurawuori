@@ -15,6 +15,7 @@ color: rgb(15, 75, 0);
 text-align: center;
 padding-top: 1%;
 width: 100%;
+display: flex;
 }
 
 h2
@@ -45,7 +46,7 @@ width: 55%;
     position: fixed;
     height: 100%;
     overflow: auto;
-    flex: 1;
+    display: flex;
 }
 
 .navstyle a 
