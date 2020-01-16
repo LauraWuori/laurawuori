@@ -33,7 +33,7 @@ color: rgb(4, 29, 11);
 text-align: justify;
 padding-left: 22%;
 padding-top: 2%;
-width: 55%;
+width: fit-content;
 }
 
 .navstyle
@@ -45,6 +45,7 @@ width: 55%;
     position: fixed;
     height: 100%;
     overflow: auto;
+    display: flex;
 }
 
 .navstyle a 
