@@ -14,7 +14,6 @@ font-style: oblique;
 color: rgb(15, 75, 0);
 text-align: center;
 padding-top: 3%;
-top: 0;
 }
 
 h2
@@ -47,8 +46,7 @@ flex: 4;
     width: 20%;
     font-size: 16px;
     height: 100%;
-    position: fixed;
-    flex: 1;
+    float: left;
 }
 
 ul 
