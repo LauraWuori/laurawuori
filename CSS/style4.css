@@ -69,7 +69,8 @@ img
     padding: 2px; 
 }
 
-.center {
+.center 
+{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -83,5 +84,6 @@ font-size: 13px;
 color: rgb(112, 38, 11);
 width: 100%;
 bottom: 0;
-padding: 50px;
+margin: 0;
+position: fixed;
 }
