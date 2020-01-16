@@ -25,19 +25,14 @@ h2
     text-align: center;
 }
 
-section
-{
-padding-left: 100px;
 
-}
-
-
-div
+main
 {
 font-size: 11px;
 color: rgb(4, 29, 11);
 text-align: center;
 width: 35%;
+float: right;
 }
 
 .navstyle
