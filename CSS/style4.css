@@ -26,12 +26,12 @@ h2
 }
 
 
-main
+div
 {
 font-size: 11px;
 color: rgb(4, 29, 11);
 text-align: center;
-width: 35%;
+width: 500px;
 padding: 2%;
 }
 
