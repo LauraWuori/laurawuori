@@ -33,7 +33,7 @@ font-size: 11px;
 color: rgb(4, 29, 11);
 text-align: justify;
 padding: 10px;
-float: left;
+width: 55%;
 }
 
 .navstyle
