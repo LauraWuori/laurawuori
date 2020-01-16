@@ -18,6 +18,7 @@ font-weight: bold;
     background-color: white;
     max-width: 900px;
     text-align: justify;
+    font-size: 12px;
 }
 
 img
@@ -26,9 +27,10 @@ img
     padding-top: 5%;
 }
 
-.bluebg
+.greyebg
 {
     background-color: rgb(177, 177, 177);
     color: white;
+    padding-top: 10%;
 }
 
