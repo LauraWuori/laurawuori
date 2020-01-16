@@ -8,10 +8,13 @@ h1
 {
 color: rgb(8, 90, 184);
 font-size: 33px;
+padding: 11px;
 }
 
 .container
 {
     background-color: white;
+    padding-bottom: 11px;
+
 }
 
