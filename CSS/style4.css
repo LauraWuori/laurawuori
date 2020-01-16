@@ -31,13 +31,6 @@ section
 
 }
 
-section:after
-{
-content: "";
-display: table;
-clear: both;
-align-content: center;
-}
 
 article
 {
