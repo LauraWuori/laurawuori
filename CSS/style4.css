@@ -45,6 +45,7 @@ width: 55%;
     position: fixed;
     height: 100%;
     overflow: auto;
+    flex: 1;
 }
 
 .navstyle a 
