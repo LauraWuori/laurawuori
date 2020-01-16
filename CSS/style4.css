@@ -14,6 +14,7 @@ font-weight: bold;
 color: rgb(15, 75, 0);
 text-align: center;
 padding-top: 1%;
+width: fit-content;
 }
 
 h2
@@ -45,7 +46,6 @@ width: fit-content;
     position: fixed;
     height: 100%;
     overflow: auto;
-    display: flex;
 }
 
 .navstyle a 
@@ -82,7 +82,7 @@ footer
 background-color: rgb(255, 223, 62);
 font-size: 13px;
 color: rgb(112, 38, 11);
-width: 100%;
+width: fit-content;
 padding-left: 23%;
 padding-top: 3%;
 padding-bottom: 3%;
