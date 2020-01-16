@@ -8,14 +8,19 @@ h1
 {
 color: rgb(8, 90, 184);
 font-size: 33px;
-padding: 11px;
+padding: 8%;
 }
 
 .container
 {
     background-color: white;
-    padding-bottom: 11px;
+    padding-bottom: 15%;
     max-width: 900px;
-    padding-top: 50px;
+}
+
+img
+{
+    max-width: 70%;
+    padding-top: 30%;
 }
 
