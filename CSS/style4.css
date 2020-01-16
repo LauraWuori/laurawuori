@@ -1,0 +1,94 @@
+body
+{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: white;
+}
+
+header
+{
+background-color: rgb(255, 180, 19);
+height: 100px;
+padding: 3px;
+font-size: 20px;
+font-weight: bold;
+font-style: oblique;
+color: rgb(15, 75, 0);
+text-align: center;
+}
+
+h2
+{
+     font-size: 22px;
+    font-weight: bold;
+    color: rgb(255, 123, 0);
+    text-align: center;
+}
+
+section
+{
+    text-align: center;
+
+}
+
+section:after
+{
+content: "";
+display: table;
+clear: both;
+align-content: center;
+}
+
+article
+{
+
+font-size: 11px;
+color: rgb(4, 29, 11);
+float: left;
+text-align: center;
+width: 55%;
+}
+
+aside
+{
+    background-color: seagreen;
+    width: 20%;
+    float: left;
+    font-size: 16px;
+    padding: 12px;
+    height: 655px;
+}
+
+aside ul
+{
+    list-style-type: none;
+    padding: 1px;
+    margin-left: 2%;
+    
+
+}
+
+
+img
+{
+    border: solid rebeccapurple 5px;
+    padding: 1px; 
+}
+
+
+footer
+{
+background-color: gold;
+font-size: 13px;
+color: rgb(112, 38, 11);
+padding: 10px;
+}
+
+a
+{
+color: orange;
+}
+
+a:visited
+{
+    color: rgb(112, 38, 11);
+}
