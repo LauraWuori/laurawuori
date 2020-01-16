@@ -32,9 +32,8 @@ div
 font-size: 11px;
 color: rgb(4, 29, 11);
 text-align: justify;
-padding-left: 22%;
-padding-top: 2%;
-width: 90%;
+padding: 10px;
+float: left;
 }
 
 .navstyle
