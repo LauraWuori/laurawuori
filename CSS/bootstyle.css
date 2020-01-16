@@ -13,9 +13,9 @@ padding-bottom: 4%;
 font-weight: bold;
 }
 
-h2
+h3
 {
-color: rgb(94, 94, 94);
+color: rgb(255, 255, 255);
 font-size: 18px;
 font-weight: bold;
 }
@@ -38,6 +38,6 @@ img
 {
     background-color: rgb(177, 177, 177);
     color: white;
-    padding-top: 10%;
+    padding-top: 5%;
 }
 
