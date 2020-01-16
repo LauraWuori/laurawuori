@@ -42,7 +42,7 @@ width: 55%;
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: #58c566;
+    background-color: #1d8d2a;
     position: fixed;
     height: 100%;
     overflow: auto;
@@ -52,7 +52,7 @@ ul
 {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding-top: 3px;
     
   }
   
