@@ -1,12 +1,12 @@
 body
 {
 font-family: Verdana, Geneva, Tahoma, sans-serif;
-background-color: rgb(191, 219, 255);
+background-color: rgb(216, 216, 216);
 }
 
 h1
 {
-color: rgb(8, 90, 184);
+color: rgb(107, 107, 107);
 font-size: 33px;
 padding-top: 4%;
 padding-bottom: 4%;
@@ -28,7 +28,7 @@ img
 
 .bluebg
 {
-    background-color: rgb(161, 161, 161);
+    background-color: rgb(177, 177, 177);
     color: white;
 }
 
