@@ -73,7 +73,7 @@
       font-weight: bold;
       text-align: center;
       letter-spacing: 5px;
-      text-decoration: underline red;
+      text-decoration: underline rgb(255, 208, 0);
   }
 
   p
