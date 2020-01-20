@@ -61,7 +61,8 @@
       color: floralwhite;
       font-weight: bold;
       text-align: center;
-      text-shadow: 2px 2px #8d4b6c;
+      text-shadow: 3px 2px #8d4b6c;
+      letter-spacing: 6px;
   }
 
   h2
