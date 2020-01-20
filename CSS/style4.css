@@ -61,7 +61,7 @@
       color: floralwhite;
       font-weight: bold;
       text-align: center;
-      text-shadow: 3px 2px #ffd900;
+      text-shadow: 3px 2px #ffc400;
       letter-spacing: 9px;
   }
 
@@ -73,8 +73,7 @@
       font-weight: bold;
       text-align: center;
       letter-spacing: 5px;
-      border-bottom: 1px;
-      border-bottom-color: #ffd900;
+      text-decoration: underline red;
   }
 
   p
