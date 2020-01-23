@@ -131,3 +131,15 @@ h3
     display: none;
   }
 }
+
+/* Table */
+
+table {
+    width: 100%;
+  }
+  
+  th {
+    height: 50px;
+    font-weight: bold;
+    color: rgb(37, 8, 51);
+  }
