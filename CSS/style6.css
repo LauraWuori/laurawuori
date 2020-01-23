@@ -24,7 +24,7 @@ body, html
   .row.content 
   {
       padding: 5% 10% 5% 10%;
-      background-color: blanchedalmond;
+      background-color: rgb(255, 255, 255);
       width: 100%;
     }
   
